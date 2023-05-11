@@ -30,7 +30,7 @@ interface VideoPageCard extends Vue {
     aid: string
     ctime: number
     owner: {
-      // 组件添加元素，非b站自有元素
+      // 组件添加元素
       mark: boolean
       name: string
     }
